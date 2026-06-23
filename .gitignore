@@ -1,0 +1,11 @@
+# Python local
+.python/
+python-embed.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dados gerados
+data/output/*
+!data/output/.gitkeep

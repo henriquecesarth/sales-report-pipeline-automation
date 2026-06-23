@@ -1,0 +1,9 @@
+id venda,data venda,canal,produto,quantidade,valor unitário,id cliente
+1001.0,2026-06-20,bALCÃO,Notebook Pro,1,5500.0,C001
+1002.0,20/06/2026,Balcao,Mouse Sem Fio,2,150.0,C002
+1003.0,2026-06-20,venda_balcao,Teclado Mecanico,1,350.0,C003
+1004.0,2026-06-21,Balcão,Monitor 24,1,1200.0,C004
+1004.0,2026-06-21,Balcão,Monitor 24,1,1200.0,C004
+1005.0,21/06/2026,venda_balcao,Notebook Pro,1,5500.0,C001
+,2026-06-21,Balcão,Notebook Pro,1,5500.0,
+1006.0,2026-06-21,,Mouse Sem Fio,2,150.0,C002
